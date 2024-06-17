@@ -1,7 +1,9 @@
 # 👋 Hi, I’m @RamtinMoslemi
 I'm a Computer Engineering student at Sharif University of Technology. 
-# 👀 I'm interested in the fields of Artificial Intelligence and Machine Learning
-In particular I find the fields of Deep Learning and Reinforcement Learning and their practical applications quite fascinating. I also like other topics such as Computer Vision and Natural Language Processing.
+# 🤖 I'm interested in Artificial Intelligence and Machine Learning
+In particular I find the fields of Deep Learning and Reinforcement Learning and their practical applications quite fascinating. 
+
+I also like other topics such as Computer Vision and Natural Language Processing.
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -25,7 +27,7 @@ In particular I find the fields of Deep Learning and Reinforcement Learning and 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<!--
+<!--👀 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
