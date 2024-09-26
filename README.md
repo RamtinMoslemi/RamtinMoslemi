@@ -3,7 +3,7 @@ I'm a Computer Engineering student at Sharif University of Technology.
 # 🤖 I'm interested in Artificial Intelligence and Machine Learning
 In particular I find the fields of Deep Learning and Reinforcement Learning and their practical applications quite fascinating. 
 
-I also like other topics such as Computer Vision and Natural Language Processing.
+I'm also interested in Adversarial Robustness and Security and Privacy issues in Machine Learning.
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
