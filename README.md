@@ -1,10 +1,31 @@
 # 👋 Hi, I’m @RamtinMoslemi
 I'm a Computer Engineering student at Sharif University of Technology. 
+
+
 # 🤖 I'm interested in Artificial Intelligence and Machine Learning
 In particular I find the fields of Deep Learning and Reinforcement Learning and their practical applications quite fascinating. 
 
 I'm also interested in Adversarial Robustness and Security and Privacy issues in Machine Learning.
 
+
+# 🔬 Research Interests
+- **Reinforcement Learning**
+  - Deep Reinforcement Learning
+  - Stochastic and Black-Box Optimization
+  - Multi-Agent Reinforcement Learning   
+- **Trustworthy AI**
+  - Adversarial Robustness
+  - Differential Privacy
+  - Explainable AI 
+- **Geometric Deep Learning**
+  - Machine Learning with Graphs
+  - Graph Neural Networks
+- **Deep Generative Models**
+  - Latent Variable Models, Score-Based and Diffusion Models
+  - Large Language Models, Foundation Models
+
+
+# ⚙️ Skills 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -16,6 +37,7 @@ I'm also interested in Adversarial Robustness and Security and Privacy issues in
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch Geometric](https://img.shields.io/badge/PyTorch_Geometric-blue.svg?style=for-the-badge&logo=PyG&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
