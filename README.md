@@ -1,18 +1,17 @@
 # 👋 Hi, I’m @RamtinMoslemi
-I'm a Computer Engineering student at Sharif University of Technology. 
+You can learn more about me over [nyah](https://ramtinmoslemi.github.io)!
 
 
 # 🤖 I'm interested in AI and ML
-In particular I find the fields of Deep Learning and Reinforcement Learning and their practical applications quite fascinating. 
-
-I'm also interested in Adversarial Robustness and Security and Privacy issues in Machine Learning.
-
+My interests lie at the intersection of deep learning and reinforcement learning, with a strong focus on theoretical foundations. 
+In deep learning, I am drawn to understanding _why_ and _how_ models work, spanning both training dynamics and architectural principles. 
+In reinforcement learning, I am similarly motivated by formal frameworks, with a keen interest in classical RL theory. 
 
 # 🔬 Research Interests
 - **Reinforcement Learning**
+  - Theoretical Reinforcement Learning
   - Deep Reinforcement Learning
-  - Stochastic and Black-Box Optimization
-  - Multi-Agent Reinforcement Learning   
+  - Stochastic & Black-Box Optimization
 - **Trustworthy AI**
   - Adversarial Robustness
   - Differential Privacy
@@ -21,8 +20,8 @@ I'm also interested in Adversarial Robustness and Security and Privacy issues in
   - Machine Learning with Graphs
   - Graph Neural Networks
 - **Deep Generative Models**
-  - Latent Variable Models, Score-Based and Diffusion Models
-  - Large Language Models, Foundation Models
+  - Diffusion Models & Flow Matching
+  - Optimal Transport
 
 
 # ⚙️ Skills 
