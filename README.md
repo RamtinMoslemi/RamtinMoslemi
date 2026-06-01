@@ -16,9 +16,9 @@ In reinforcement learning, I am similarly motivated by formal frameworks, with a
   - Adversarial Robustness
   - Differential Privacy
   - Explainable AI 
-- **Geometric Deep Learning**
-  - Machine Learning with Graphs
-  - Graph Neural Networks
+- **Deep Learning Theory**
+  - Learning Dynamics
+  - Geometric Deep Learning
 - **Deep Generative Models**
   - Diffusion Models & Flow Matching
   - Optimal Transport
